@@ -1,0 +1,38 @@
+{
+  "name": "iweek-hac",
+  "version": "1.0.0",
+  "description": "Solution for the iweek hackaton 2020",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielLimasP/iweek-hac.git"
+  },
+  "keywords": [
+    "iweek",
+    "express",
+    "nodejs",
+    "chihuahua",
+    "turismo",
+    "hackaton"
+  ],
+  "author": "hac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielLimasP/iweek-hac/issues"
+  },
+  "homepage": "https://github.com/DanielLimasP/iweek-hac#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "nodemon": "^2.0.4"
+  }
+}
