@@ -1,3 +1,4 @@
+// Finished. TODO: Add some more functions and stuff
 const DensidadModel = require("../models/Densidad");
 
 async function getDensidadFromYear(req, res) {
