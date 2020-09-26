@@ -14,6 +14,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 //Routes
+
+const authRoutes = require("./routes/auth-routes")
+app.use("/usuario", authRoutes);
+
 const densidadRoutes = require("./routes/densidad-routes");
 app.use("/densidad", densidadRoutes);
 
