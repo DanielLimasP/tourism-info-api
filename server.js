@@ -11,7 +11,6 @@ app.set("port", process.env.PORT || 420);
 
 //Middlewares
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser({ limit: "50mb" }));
 app.use(bodyParser.json());
 
 //Routes
