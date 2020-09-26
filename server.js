@@ -20,7 +20,7 @@ app.use("/densidad", densidadRoutes);
 const ocupacionRoutes = require("./routes/ocupacion-routes");
 app.use("/ocupacion", ocupacionRoutes);
 
-const turistasRoutes = require("./routes/turistas-routes");
+const turistasRoutes = require("./routes/llegadaturistas-routes");
 app.use("/turistas", turistasRoutes);
 
 //Static Files
