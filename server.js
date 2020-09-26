@@ -14,9 +14,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 //Routes
-// TODO: Define routes
-//const fooRoutes = require("./bar/route");
-//app.use("/foo", fooRoutes);
+const densidadRoutes = require("./routes/densidad-routes");
+app.use("/densidad", densidadRoutes);
 
 //Static Files
 app.use(express.static(path.join(__dirname, "public")));
