@@ -18,7 +18,10 @@ const densidadRoutes = require("./routes/densidad-routes");
 app.use("/densidad", densidadRoutes);
 
 const ocupacionRoutes = require("./routes/ocupacion-routes");
-app.use("/ocupacion", densidadRoutes);
+app.use("/ocupacion", ocupacionRoutes);
+
+const turistasRoutes = require("./routes/turistas-routes");
+app.use("/turistas", turistasRoutes);
 
 //Static Files
 app.use(express.static(path.join(__dirname, "public")));
