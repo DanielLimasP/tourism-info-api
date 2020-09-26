@@ -17,6 +17,9 @@ app.use(bodyParser.json());
 const densidadRoutes = require("./routes/densidad-routes");
 app.use("/densidad", densidadRoutes);
 
+const derramaRoutes = require("./routes/derrama-routes");
+app.use("/derrama", derramaRoutes);
+
 const ocupacionRoutes = require("./routes/ocupacion-routes");
 app.use("/ocupacion", ocupacionRoutes);
 
@@ -28,6 +31,9 @@ app.use("/turnoch", turnochRoutes);
 
 const establecimientoRoutes = require("./routes/establecimiento-routes");
 app.use("/establecimiento", establecimientoRoutes);
+
+const habitacionesRoutes = require("./routes/habitaciones-routes");
+app.use("/habitaciones", habitacionesRoutes);
 
 //Static Files
 app.use(express.static(path.join(__dirname, "public")));
