@@ -17,6 +17,9 @@ app.use(bodyParser.json());
 const densidadRoutes = require("./routes/densidad-routes");
 app.use("/densidad", densidadRoutes);
 
+const ocupacionRoutes = require("./routes/ocupacion-routes");
+app.use("/ocupacion", densidadRoutes);
+
 //Static Files
 app.use(express.static(path.join(__dirname, "public")));
 
