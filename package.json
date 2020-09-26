@@ -4,7 +4,8 @@
   "description": "Solution for the iweek hackaton 2020",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env nodemon server.js"
   },
   "repository": {
     "type": "git",
