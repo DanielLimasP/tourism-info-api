@@ -4,7 +4,7 @@ async function getLlegadaTuristaFromYear(req, res) {
     console.log("Body of the request", req.body);
     let year = req.body.year;
   
-    let result = await LlegadaTuristasdModel.find({ Año: year });
+    let result = await LlegadaTuristasModel.find({ Año: year });
   
     return res
       .status(200)
