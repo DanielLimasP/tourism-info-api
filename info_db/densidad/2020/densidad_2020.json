@@ -2,104 +2,104 @@
   {
     "Municipio": "Nuevo Casas Grandes",
     "Region": "Arqueológica",
-    "Categoria": "Total",
-    "Enero": "1,62",
-    "Febrero": "1,7",
-    "Marzo": "1,79",
-    "Abril": "1,57",
-    "Mayo": "1,72",
-    "Junio": "1,81",
-    "Julio": "1,9",
-    "Agosto": "1,98",
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
-  },
-  {
-    "Municipio": "Nuevo Casas Grandes",
-    "Region": "Arqueológica",
-    "Categoria": "5 estrellas",
-    "Enero": 0,
-    "Febrero": 0,
-    "Marzo": 0,
-    "Abril": 0,
-    "Mayo": 0,
-    "Junio": 0,
-    "Julio": 0,
-    "Agosto": 0,
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
-  },
-  {
-    "Municipio": "Nuevo Casas Grandes",
-    "Region": "Arqueológica",
-    "Categoria": "4 estrellas",
-    "Enero": "1,53",
-    "Febrero": "1,63",
-    "Marzo": "1,77",
-    "Abril": "1,59",
-    "Mayo": "1,62",
-    "Junio": "1,9",
-    "Julio": "2,03",
-    "Agosto": "2,11",
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
-  },
-  {
-    "Municipio": "Nuevo Casas Grandes",
-    "Region": "Arqueológica",
-    "Categoria": "3 estrellas",
-    "Enero": "1,7",
-    "Febrero": "1,76",
-    "Marzo": "1,81",
-    "Abril": "1,55",
-    "Mayo": "1,76",
-    "Junio": "1,61",
-    "Julio": "1,79",
-    "Agosto": "1,86",
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
-  },
-  {
-    "Municipio": "Nuevo Casas Grandes",
-    "Region": "Arqueológica",
-    "Categoria": "2 estrellas",
-    "Enero": 0,
-    "Febrero": 0,
-    "Marzo": 0,
-    "Abril": 0,
-    "Mayo": 0,
-    "Junio": 0,
-    "Julio": 0,
-    "Agosto": 0,
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
-  },
-  {
-    "Municipio": "Nuevo Casas Grandes",
-    "Region": "Arqueológica",
-    "Categoria": "1 estrella",
-    "Enero": 0,
-    "Febrero": 0,
-    "Marzo": 0,
-    "Abril": 0,
-    "Mayo": 0,
-    "Junio": 0,
-    "Julio": 0,
-    "Agosto": 0,
-    "Septiembre": "",
-    "Octubre": "",
-    "Noviembre": "",
-    "Diciembre": ""
+    "Categoria": {
+      "Total": {
+        "Meses": {
+          "Enero": "1,62",
+          "Febrero": "1,7",
+          "Marzo": "1,79",
+          "Abril": "1,57",
+          "Mayo": "1,72",
+          "Junio": "1,81",
+          "Julio": "1,9",
+          "Agosto": "1,98",
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      },
+      "5 Estrellas":{
+        "Meses":{
+          "Enero": 0,
+          "Febrero": 0,
+          "Marzo": 0,
+          "Abril": 0,
+          "Mayo": 0,
+          "Junio": 0,
+          "Julio": 0,
+          "Agosto": 0,
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      },
+      "4 Estrellas":{
+        "Meses":{
+          "Enero": "1,53",
+          "Febrero": "1,63",
+          "Marzo": "1,77",
+          "Abril": "1,59",
+          "Mayo": "1,62",
+          "Junio": "1,9",
+          "Julio": "2,03",
+          "Agosto": "2,11",
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      },
+      "3 Estrellas":{
+        "Meses":{
+          "Enero": "1,7",
+          "Febrero": "1,76",
+          "Marzo": "1,81",
+          "Abril": "1,55",
+          "Mayo": "1,76",
+          "Junio": "1,61",
+          "Julio": "1,79",
+          "Agosto": "1,86",
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      },
+      "2 Estrellas":{
+        "Meses":{
+          "Enero": "1,7",
+          "Febrero": "1,76",
+          "Marzo": "1,81",
+          "Abril": "1,55",
+          "Mayo": "1,76",
+          "Junio": "1,61",
+          "Julio": "1,79",
+          "Agosto": "1,86",
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      },
+      "1 Estrellas":{
+        "Meses":{
+          "Enero": 0,
+          "Febrero": 0,
+          "Marzo": 0,
+          "Abril": 0,
+          "Mayo": 0,
+          "Junio": 0,
+          "Julio": 0,
+          "Agosto": 0,
+          "Septiembre": "",
+          "Octubre": "",
+          "Noviembre": "",
+          "Diciembre": ""
+        }
+      }
+    }
   },
   {
     "Municipio": "Chihuahua",
