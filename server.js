@@ -26,6 +26,9 @@ app.use("/turistas", turistasRoutes);
 const turnochRoutes = require("./routes/turnoch-routes");
 app.use("/turnoch", turnochRoutes);
 
+const establecimientoRoutes = require("./routes/establecimiento-routes");
+app.use("/establecimiento", establecimientoRoutes);
+
 //Static Files
 app.use(express.static(path.join(__dirname, "public")));
 
