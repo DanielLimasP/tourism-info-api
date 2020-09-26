@@ -4,12 +4,14 @@ async function getLlegadaTuristaFromYear(req, res) {
   console.log("Body of the request", req.body);
   let year = req.body.year;
 
-  let result = await LlegadaTuristasModel.find({ año: year });
+  let result = await LlegadaTuristasModel.find({ Año: year });
 
-  return res.status(200).send({
-    message: `Llegada de turistas from year ${year}`,
-    concepts: result,
-  });
+  return res
+    .status(200)
+    .send({
+      message: `Llegada de turistas from year ${year}`,
+      concepts: result,
+    });
 }
 
 async function createLlegadaTuristas(req, res) {
