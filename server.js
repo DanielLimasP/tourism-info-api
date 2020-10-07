@@ -14,33 +14,12 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 //Routes
-
+// User routes
 const authRoutes = require("./routes/auth-routes")
-app.use("/usuario", authRoutes);
-
-const densidadRoutes = require("./routes/densidad-routes");
-app.use("/densidad", densidadRoutes);
-
-const derramaRoutes = require("./routes/derrama-routes");
-app.use("/derrama", derramaRoutes);
-
-const ocupacionRoutes = require("./routes/ocupacion-routes");
-app.use("/ocupacion", ocupacionRoutes);
-
-const turistasRoutes = require("./routes/llegadaturistas-routes");
-app.use("/turistas", turistasRoutes);
-
-const turnochRoutes = require("./routes/turnoch-routes");
-app.use("/turnoch", turnochRoutes);
-
-const establecimientoRoutes = require("./routes/establecimiento-routes");
-app.use("/establecimiento", establecimientoRoutes);
-
-const habitacionesRoutes = require("./routes/habitaciones-routes");
-app.use("/habitaciones", habitacionesRoutes);
-
-//Static Files
-app.use(express.static(path.join(__dirname, "public")));
+app.use("/user", authRoutes);
+// Info routes
+const tourismInfoRoutes = require("./routes/tourism-info-routes")
+app.use("/info", tourismInfoRoutes);
 
 //Server Initialize
 app.listen(app.get("port"), () => {

@@ -13,56 +13,56 @@ const register = (req, res, next) => {
     }
 
     let user = new User({
-      name: req.body.name,
+      nombre: req.body.nombre,
       email: req.body.email,
-      password: hashedPass,
+      contraseña: hashedPass,
     });
 
     user
       .save()
       .then((user) => {
         res.json({
-          message: "User Has Been Added Succesfully",
+          message: "Usuario creado correctamente",
         });
       })
       .catch((error) => {
         res.json({
-          message: "An error ocurred",
+          message: "Ha ocurrido un error",
         });
       });
   });
 };
 
 const login = (req, res, next) => {
-    var username = req.body.username
-    var password = req.body.password
+    var email = req.body.email
+    var contraseña = req.body.contraseña
 
-    User.findOne({$or: [{email: username}]})
+    User.findOne({$or: [{email: email}]})
     .then(user => {
         if(user){
-            bcrypt.compare(password, user.password, function(err, result) {
+            bcrypt.compare(contraseña, user.contraseña, function(err, result) {
                 if(err){
                     res.json({
                         error: err
                     })
                 }
                 if(result){
-                    let token = jwt.sign({name: user.username}, 'verySecretValue', {expiresIn: '1h'})
+                    let token = jwt.sign({email: user.email}, 'verySecretValue', {expiresIn: '1h'})
                     res.json({
-                        message: 'Login Successfull',
+                        message: 'Inicio de sesion exitoso',
                         token
                     })
                 }
                 else{
                     res.json({
-                        message: 'Password does not matched'
+                        message: 'La contrasena es incorrecta'
                     })
                 }
 
             })
         }else{
             res.json({
-                message: 'No User Found'
+                message: 'No se encontro el usuario'
             })
         }
     })

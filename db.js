@@ -4,7 +4,7 @@
 const mongoose = require("mongoose");
 
 const atlas = "admin"; // Ask for admin
-const local = "mongodb://localhost/iweek-hackaton-db";
+const local = "mongodb://localhost/tourism-info-api";
 
 mongoose
   .connect(local, {
