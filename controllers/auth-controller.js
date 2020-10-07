@@ -20,12 +20,12 @@ const register = (req, res, next) => {
       .save()
       .then((user) => {
         res.json({
-          message: "Usuario creado correctamente",
+          message: "User created succesfully",
         });
       })
       .catch((error) => {
         res.json({
-          message: "Ha ocurrido un error",
+          message: "There has been an error",
         });
       });
   });
@@ -44,14 +44,14 @@ const login = (req, res) => {
                 }
                 if(result){
                     let token = jwt.sign({email: user.email}, 'verySecretValue', {expiresIn: '1h'})
-                    res.json({message: 'Inicio de sesion exitoso',token})
+                    res.json({message: 'Login succesful',token})
                 }
                 else{
-                    res.json({message: 'La contrasena es incorrecta'})
+                    res.json({message: 'Incorrect password'})
                 }
             })
         }else{
-            res.json({message: 'No se encontro el usuario'})
+            res.json({message: 'User not found'})
         }
     })
 }
