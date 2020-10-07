@@ -1,0 +1,962 @@
+[
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Nuevo Casas Grandes",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 2557,
+      "Febrero": 8451,
+      "Marzo": 7946,
+      "Abril": 1932,
+      "Mayo": 4745,
+      "Junio": 1641,
+      "Julio": 5913,
+      "Agosto": 5804,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Madera",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 0,
+      "Febrero": 0,
+      "Marzo": 567,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 686,
+      "Julio": 1135,
+      "Agosto": 2269,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Bocoyna",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 29714,
+      "Febrero": 27535,
+      "Marzo": 15874,
+      "Abril": 622,
+      "Mayo": 734,
+      "Junio": 6195,
+      "Julio": 26880,
+      "Agosto": 35431,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Ocampo",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 4336,
+      "Febrero": 11544,
+      "Marzo": 3656,
+      "Abril": 506,
+      "Mayo": 0,
+      "Junio": 1213,
+      "Julio": 2468,
+      "Agosto": 5994,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Urique",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 8609,
+      "Febrero": 13621,
+      "Marzo": 10401,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 3020,
+      "Julio": 7054,
+      "Agosto": 18721,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Guachochi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 3373,
+      "Febrero": 8060,
+      "Marzo": 4321,
+      "Abril": 0,
+      "Mayo": 376,
+      "Junio": 2182,
+      "Julio": 2698,
+      "Agosto": 9602,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Batopilas",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 2877,
+      "Febrero": 2691,
+      "Marzo": 530,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 0,
+      "Julio": 935,
+      "Agosto": 1280,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Balleza",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 1405,
+      "Febrero": 2111,
+      "Marzo": 926,
+      "Abril": 33,
+      "Mayo": 30,
+      "Junio": 270,
+      "Julio": 368,
+      "Agosto": 452,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Chinipas",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 1214,
+      "Febrero": 1825,
+      "Marzo": 800,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 233,
+      "Julio": 318,
+      "Agosto": 391,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "G. y Calvo",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 2481,
+      "Febrero": 3727,
+      "Marzo": 1634,
+      "Abril": 58,
+      "Mayo": 53,
+      "Junio": 476,
+      "Julio": 650,
+      "Agosto": 799,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Guazapares",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 1180,
+      "Febrero": 1772,
+      "Marzo": 777,
+      "Abril": 28,
+      "Mayo": 25,
+      "Junio": 227,
+      "Julio": 309,
+      "Agosto": 380,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Guerrero",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 2759,
+      "Febrero": 4144,
+      "Marzo": 1817,
+      "Abril": 64,
+      "Mayo": 59,
+      "Junio": 530,
+      "Julio": 723,
+      "Agosto": 888,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Maguarichi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 87,
+      "Febrero": 130,
+      "Marzo": 57,
+      "Abril": 2,
+      "Mayo": 2,
+      "Junio": 17,
+      "Julio": 23,
+      "Agosto": 28,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Moris",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 590,
+      "Febrero": 886,
+      "Marzo": 389,
+      "Abril": 14,
+      "Mayo": 13,
+      "Junio": 113,
+      "Julio": 155,
+      "Agosto": 190,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Uruachi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": 468,
+      "Febrero": 704,
+      "Marzo": 309,
+      "Abril": 11,
+      "Mayo": 10,
+      "Junio": 90,
+      "Julio": 123,
+      "Agosto": 151,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Chihuahua",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": 142842,
+      "Febrero": 149024,
+      "Marzo": 131960,
+      "Abril": 21641,
+      "Mayo": 34288,
+      "Junio": 58200,
+      "Julio": 70411,
+      "Agosto": 80652,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Cuauhtémoc",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": 32130,
+      "Febrero": 32910,
+      "Marzo": 23880,
+      "Abril": 13167,
+      "Mayo": 11094,
+      "Junio": 26162,
+      "Julio": 26135,
+      "Agosto": 21933,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Ojinaga",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": 5431,
+      "Febrero": 3772,
+      "Marzo": 1358,
+      "Abril": 2919,
+      "Mayo": 3621,
+      "Junio": 2628,
+      "Julio": 4523,
+      "Agosto": 3298,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Juárez",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": 208343,
+      "Febrero": 217149,
+      "Marzo": 177976,
+      "Abril": 38200,
+      "Mayo": 59117,
+      "Junio": 34433,
+      "Julio": 52494,
+      "Agosto": 64822,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Delicias",
+    "Region": "Perla de Conchos",
+    "Meses": {
+      "Enero": 13318,
+      "Febrero": 13867,
+      "Marzo": 11406,
+      "Abril": 3328,
+      "Mayo": 9523,
+      "Junio": 4968,
+      "Julio": 9276,
+      "Agosto": 8318,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Camargo",
+    "Region": "Perla de Conchos",
+    "Meses": {
+      "Enero": 6281,
+      "Febrero": 7011,
+      "Marzo": 3021,
+      "Abril": 1338,
+      "Mayo": 4133,
+      "Junio": 5586,
+      "Julio": 5679,
+      "Agosto": 4659,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Jiménez",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 2691,
+      "Febrero": 1259,
+      "Marzo": 673,
+      "Abril": 326,
+      "Mayo": 673,
+      "Junio": 1123,
+      "Julio": 2018,
+      "Agosto": 2018,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "H. del Parral",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 28166,
+      "Febrero": 12806,
+      "Marzo": 16399,
+      "Abril": 6438,
+      "Mayo": 8204,
+      "Junio": 10433,
+      "Julio": 9259,
+      "Agosto": 12458,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Ahumada",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": 3361,
+      "Febrero": 2847,
+      "Marzo": 2131,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 288,
+      "Julio": 313,
+      "Agosto": 620,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Aldama",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": 834,
+      "Febrero": 707,
+      "Marzo": 529,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 71,
+      "Julio": 78,
+      "Agosto": 154,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Allende",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 556,
+      "Febrero": 471,
+      "Marzo": 353,
+      "Abril": 92,
+      "Mayo": 94,
+      "Junio": 48,
+      "Julio": 52,
+      "Agosto": 103,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Ascención",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": 5632,
+      "Febrero": 4772,
+      "Marzo": 3572,
+      "Abril": 935,
+      "Mayo": 948,
+      "Junio": 482,
+      "Julio": 525,
+      "Agosto": 1040,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Bachiniva",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 162,
+      "Febrero": 137,
+      "Marzo": 103,
+      "Abril": 27,
+      "Mayo": 27,
+      "Junio": 14,
+      "Julio": 15,
+      "Agosto": 30,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Buenaventura",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 2457,
+      "Febrero": 2082,
+      "Marzo": 1558,
+      "Abril": 408,
+      "Mayo": 414,
+      "Junio": 210,
+      "Julio": 229,
+      "Agosto": 453,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Carichí",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": 649,
+      "Febrero": 550,
+      "Marzo": 412,
+      "Abril": 108,
+      "Mayo": 109,
+      "Junio": 56,
+      "Julio": 60,
+      "Agosto": 120,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Casas Grandes",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 719,
+      "Febrero": 609,
+      "Marzo": 456,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 61,
+      "Julio": 67,
+      "Agosto": 133,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Coyame del Sotol",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": 232,
+      "Febrero": 196,
+      "Marzo": 147,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 20,
+      "Julio": 22,
+      "Agosto": 43,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Gómez Farías",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 811,
+      "Febrero": 687,
+      "Marzo": 514,
+      "Abril": 135,
+      "Mayo": 137,
+      "Junio": 69,
+      "Julio": 76,
+      "Agosto": 150,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Janos",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 1391,
+      "Febrero": 1178,
+      "Marzo": 882,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 119,
+      "Julio": 130,
+      "Agosto": 257,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Julimes",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 464,
+      "Febrero": 393,
+      "Marzo": 294,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 40,
+      "Julio": 43,
+      "Agosto": 86,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Lopez",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 232,
+      "Febrero": 196,
+      "Marzo": 147,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 20,
+      "Julio": 22,
+      "Agosto": 43,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Manuel Benavides",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": 324,
+      "Febrero": 275,
+      "Marzo": 206,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 28,
+      "Julio": 30,
+      "Agosto": 60,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Matachí",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 255,
+      "Febrero": 216,
+      "Marzo": 162,
+      "Abril": 42,
+      "Mayo": 43,
+      "Junio": 22,
+      "Julio": 24,
+      "Agosto": 47,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Meoquí",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": 2526,
+      "Febrero": 2141,
+      "Marzo": 1602,
+      "Abril": 420,
+      "Mayo": 425,
+      "Junio": 216,
+      "Julio": 235,
+      "Agosto": 466,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Namiquipa",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 2503,
+      "Febrero": 2121,
+      "Marzo": 1587,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 214,
+      "Julio": 233,
+      "Agosto": 462,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Riva Palacio",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": 417,
+      "Febrero": 353,
+      "Marzo": 265,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 36,
+      "Julio": 39,
+      "Agosto": 77,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Rosales",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": 649,
+      "Febrero": 550,
+      "Marzo": 412,
+      "Abril": 108,
+      "Mayo": 109,
+      "Junio": 56,
+      "Julio": 60,
+      "Agosto": 120,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Sn Fco. Borja",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": 185,
+      "Febrero": 157,
+      "Marzo": 118,
+      "Abril": 31,
+      "Mayo": 31,
+      "Junio": 16,
+      "Julio": 17,
+      "Agosto": 34,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Sn Fco. Conchos",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": 2851,
+      "Febrero": 2415,
+      "Marzo": 1808,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 244,
+      "Julio": 266,
+      "Agosto": 526,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Santa Barbara",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 324,
+      "Febrero": 275,
+      "Marzo": 206,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 28,
+      "Julio": 30,
+      "Agosto": 60,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Saucillo",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": 835,
+      "Febrero": 709,
+      "Marzo": 525,
+      "Abril": 136,
+      "Mayo": 141,
+      "Junio": 69,
+      "Julio": 76,
+      "Agosto": 154,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Temosachi",
+    "Region": "Arqueológica",
+    "Meses": {
+      "Enero": 116,
+      "Febrero": 98,
+      "Marzo": 73,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 10,
+      "Julio": 11,
+      "Agosto": 21,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  },
+  {
+    "Año": "2020",
+    "Categoria": "Noches de estadia de los turistas",
+    "Municipio": "Valle de Zaragoza",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": 2805,
+      "Febrero": 2376,
+      "Marzo": 1779,
+      "Abril": 0,
+      "Mayo": 0,
+      "Junio": 240,
+      "Julio": 261,
+      "Agosto": 518,
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  }
+]

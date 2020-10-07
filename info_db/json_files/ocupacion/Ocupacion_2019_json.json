@@ -1,0 +1,1002 @@
+[
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Nuevo Casas Grandes",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "45.40%",
+      "Febrero": "37.57%",
+      "Marzo": "45.09%",
+      "Abril": "46.56%",
+      "Mayo": "44.45%",
+      "Junio": "42.02%",
+      "Julio": "54.78%",
+      "Agosto": "41.90%",
+      "Septiembre": "50.29%",
+      "Octubre": "59.34%",
+      "Noviembre": "48.12%",
+      "Diciembre": "36.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Madera",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "31.00%",
+      "Febrero": "56.00%",
+      "Marzo": "55.00%",
+      "Abril": "49.33%",
+      "Mayo": "45.00%",
+      "Junio": "47.50%",
+      "Julio": "70.00%",
+      "Agosto": "65.20%",
+      "Septiembre": "31.00%",
+      "Octubre": "50.00%",
+      "Noviembre": "3.50%",
+      "Diciembre": "3.00%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Bocoyna",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "30.00%",
+      "Febrero": "25.00%",
+      "Marzo": "30.00%",
+      "Abril": "65.68%",
+      "Mayo": "28.00%",
+      "Junio": "35.11%",
+      "Julio": "75.55%",
+      "Agosto": "55.00%",
+      "Septiembre": "50.45%",
+      "Octubre": "35.22%",
+      "Noviembre": "41.13%",
+      "Diciembre": "61.80%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Ocampo",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "67.50%",
+      "Febrero": "60.00%",
+      "Marzo": "60.00%",
+      "Abril": "68.60%",
+      "Mayo": "60.00%",
+      "Junio": "56.50%",
+      "Julio": "65.00%",
+      "Agosto": "60.00%",
+      "Septiembre": "37.00%",
+      "Octubre": "30.00%",
+      "Noviembre": "38.00%",
+      "Diciembre": "45.00%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Urique",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.50%",
+      "Febrero": "45.00%",
+      "Marzo": "30.00%",
+      "Abril": "66.33%",
+      "Mayo": "45.30%",
+      "Junio": "40.00%",
+      "Julio": "70.00%",
+      "Agosto": "42.68%",
+      "Septiembre": "52.00%",
+      "Octubre": "31.50%",
+      "Noviembre": "22.50%",
+      "Diciembre": "55.00%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Guachochi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "14.40%",
+      "Febrero": "15.00%",
+      "Marzo": "47.00%",
+      "Abril": "45.60%",
+      "Mayo": "23.00%",
+      "Junio": "41.33%",
+      "Julio": "79.50%",
+      "Agosto": "56.40%",
+      "Septiembre": "49.50%",
+      "Octubre": "23.00%",
+      "Noviembre": "36.25%",
+      "Diciembre": "42.81%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Batopilas",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "12.22%",
+      "Febrero": "23.00%",
+      "Marzo": "26.00%",
+      "Abril": "72.67%",
+      "Mayo": "42.00%",
+      "Junio": "40.00%",
+      "Julio": "72.10%",
+      "Agosto": "42.50%",
+      "Septiembre": "39.50%",
+      "Octubre": "35.30%",
+      "Noviembre": "31.20%",
+      "Diciembre": "42.00%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Balleza",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Chinipas",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "G. y Calvo",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Guazapares",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Guerrero",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Maguarichi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Moris",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Uruachi",
+    "Region": "Barrancas del Cobre",
+    "Meses": {
+      "Enero": "31.12%",
+      "Febrero": "33.60%",
+      "Marzo": "38.60%",
+      "Abril": "63.78%",
+      "Mayo": "39.66%",
+      "Junio": "42.59%",
+      "Julio": "72.43%",
+      "Agosto": "51.32%",
+      "Septiembre": "45.69%",
+      "Octubre": "31.00%",
+      "Noviembre": "33.82%",
+      "Diciembre": "49.32%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Chihuahua",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": "42.36%",
+      "Febrero": "46.66%",
+      "Marzo": "54.90%",
+      "Abril": "56.84%",
+      "Mayo": "73.72%",
+      "Junio": "57.74%",
+      "Julio": "55.88%",
+      "Agosto": "51.16%",
+      "Septiembre": "54.44%",
+      "Octubre": "54.56%",
+      "Noviembre": "48.69%",
+      "Diciembre": "49.01%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Cuauhtémoc",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": "45.00%",
+      "Febrero": "48.25%",
+      "Marzo": "51.00%",
+      "Abril": "54.13%",
+      "Mayo": "60.00%",
+      "Junio": "52.83%",
+      "Julio": "55.00%",
+      "Agosto": "63.00%",
+      "Septiembre": "37.77%",
+      "Octubre": "38.46%",
+      "Noviembre": "52.28%",
+      "Diciembre": "44.20%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Ojinaga",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": "55.00%",
+      "Febrero": "42.25%",
+      "Marzo": "42.00%",
+      "Abril": "82.67%",
+      "Mayo": "75.00%",
+      "Junio": "62.60%",
+      "Julio": "55.00%",
+      "Agosto": "53.15%",
+      "Septiembre": "63.67%",
+      "Octubre": "36.67%",
+      "Noviembre": "33.23%",
+      "Diciembre": "27.20%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Juárez",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": "60.65%",
+      "Febrero": "70.42%",
+      "Marzo": "72.29%",
+      "Abril": "70.57%",
+      "Mayo": "73.27%",
+      "Junio": "76.76%",
+      "Julio": "75.89%",
+      "Agosto": "72.89%",
+      "Septiembre": "69.39%",
+      "Octubre": "71.43%",
+      "Noviembre": "74.49%",
+      "Diciembre": "61.65%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Delicias",
+    "Region": "Perla de Conchos",
+    "Meses": {
+      "Enero": "47.50%",
+      "Febrero": "42.00%",
+      "Marzo": "46.00%",
+      "Abril": "56.88%",
+      "Mayo": "54.00%",
+      "Junio": "59.00%",
+      "Julio": "60.00%",
+      "Agosto": "65.00%",
+      "Septiembre": "61.34%",
+      "Octubre": "62.93%",
+      "Noviembre": "50.76%",
+      "Diciembre": "47.84%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Camargo",
+    "Region": "Perla de Conchos",
+    "Meses": {
+      "Enero": "30.00%",
+      "Febrero": "29.50%",
+      "Marzo": "31.00%",
+      "Abril": "87.00%",
+      "Mayo": "55.00%",
+      "Junio": "65.00%",
+      "Julio": "65.00%",
+      "Agosto": "85.00%",
+      "Septiembre": "47.43%",
+      "Octubre": "46.70%",
+      "Noviembre": "45.23%",
+      "Diciembre": "61.36%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Jiménez",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "72.50%",
+      "Febrero": "55.00%",
+      "Marzo": "60.00%",
+      "Abril": "73.23%",
+      "Mayo": "40.00%",
+      "Junio": "70.00%",
+      "Julio": "75.00%",
+      "Agosto": "45.25%",
+      "Septiembre": "30.00%",
+      "Octubre": "50.00%",
+      "Noviembre": "70.00%",
+      "Diciembre": "80.00%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "H. del Parral",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "46.75%",
+      "Febrero": "47.35%",
+      "Marzo": "54.28%",
+      "Abril": "47.48%",
+      "Mayo": "48.14%",
+      "Junio": "75.50%",
+      "Julio": "62.87%",
+      "Agosto": "49.09%",
+      "Septiembre": "45.18%",
+      "Octubre": "49.62%",
+      "Noviembre": "57.04%",
+      "Diciembre": "48.67%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Ahumada",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Aldama",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Allende",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Ascención",
+    "Region": "Juárez",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Bachiniva",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Buenaventura",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Carichí",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Casas Grandes",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Coyame del Sotol",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Gómez Farías",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Janos",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Julimes",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Lopez",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Manuel Benavides",
+    "Region": "Desierto",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Matachí",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Meoquí",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Namiquipa",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Riva Palacio",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Rosales",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Sn Fco. Borja",
+    "Region": "Chihuahua",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Sn Fco. Conchos",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Santa Barbara",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Saucillo",
+    "Region": "Perlas de Conchos",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Temosachi",
+    "Region": "Arqueologica",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Valle de Zaragoza",
+    "Region": "Ruta de Villa",
+    "Meses": {
+      "Enero": "49.97%",
+      "Febrero": "47.68%",
+      "Marzo": "51.43%",
+      "Abril": "66.10%",
+      "Mayo": "59.89%",
+      "Junio": "64.93%",
+      "Julio": "63.08%",
+      "Agosto": "60.57%",
+      "Septiembre": "51.15%",
+      "Octubre": "51.30%",
+      "Noviembre": "53.96%",
+      "Diciembre": "52.49%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "Estatal",
+    "Region": "Todas",
+    "Meses": {
+      "Enero": "51.51%",
+      "Febrero": "57.76%",
+      "Marzo": "63.01%",
+      "Abril": "60.54%",
+      "Mayo": "70.31%",
+      "Junio": "67.12%",
+      "Julio": "66.10%",
+      "Agosto": "61.15%",
+      "Septiembre": "60.21%",
+      "Octubre": "62.43%",
+      "Noviembre": "61.50%",
+      "Diciembre": "54.37%"
+    }
+  },
+  {
+    "Año": "2019",
+    "Categoria": "Ocupacion hotelera",
+    "Municipio": "",
+    "Region": "",
+    "Meses": {
+      "Enero": "",
+      "Febrero": "",
+      "Marzo": "",
+      "Abril": "",
+      "Mayo": "",
+      "Junio": "",
+      "Julio": "",
+      "Agosto": "",
+      "Septiembre": "",
+      "Octubre": "",
+      "Noviembre": "",
+      "Diciembre": ""
+    }
+  }
+]
