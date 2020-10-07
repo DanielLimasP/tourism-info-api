@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielLimasP/iweek-hac.git"
+    "url": "git+https://github.com/DanielLimasP/tourism-info-api.git"
   },
   "keywords": [
     "iweek",
@@ -22,9 +22,9 @@
   "author": "hac",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielLimasP/iweek-hac/issues"
+    "url": "https://github.com/DanielLimasP/tourism-info-api/issues"
   },
-  "homepage": "https://github.com/DanielLimasP/iweek-hac#readme",
+  "homepage": "https://github.com/DanielLimasP/tourism-info-api#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
