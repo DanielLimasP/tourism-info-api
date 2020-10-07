@@ -1,6 +1,7 @@
 [
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Nuevo Casas Grandes",
     "Region": "Arqueologica",
     "Meses": {
@@ -20,6 +21,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Madera",
     "Region": "Arqueologica",
     "Meses": {
@@ -39,6 +41,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Bocoyna",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -58,6 +61,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Ocampo",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -77,6 +81,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Urique",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -96,6 +101,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Guachochi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -115,6 +121,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Batopilas",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -134,6 +141,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Balleza",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -153,6 +161,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Chinipas",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -172,6 +181,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "G. y Calvo",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -191,6 +201,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Guazapares",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -210,6 +221,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Guerrero",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -229,6 +241,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Maguarichi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -248,6 +261,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Moris",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -267,6 +281,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Uruachi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -286,6 +301,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Chihuahua",
     "Region": "Chihuahua",
     "Meses": {
@@ -305,6 +321,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Cuauht�moc",
     "Region": "Chihuahua",
     "Meses": {
@@ -324,6 +341,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Ojinaga",
     "Region": "Desierto",
     "Meses": {
@@ -343,6 +361,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Ju�rez",
     "Region": "Ju�rez",
     "Meses": {
@@ -362,6 +381,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Delicias",
     "Region": "Perla de Conchos",
     "Meses": {
@@ -381,6 +401,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Camargo",
     "Region": "Perla de Conchos",
     "Meses": {
@@ -400,6 +421,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Jim�nez",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -419,6 +441,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "H. del Parral",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -438,6 +461,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Ahumada",
     "Region": "Ju�rez",
     "Meses": {
@@ -457,6 +481,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Aldama",
     "Region": "Desierto",
     "Meses": {
@@ -476,6 +501,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Allende",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -495,6 +521,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Ascenci�n",
     "Region": "Ju�rez",
     "Meses": {
@@ -514,6 +541,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Bachiniva",
     "Region": "Arqueologica",
     "Meses": {
@@ -533,6 +561,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Buenaventura",
     "Region": "Arqueologica",
     "Meses": {
@@ -552,6 +581,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Carich�",
     "Region": "Chihuahua",
     "Meses": {
@@ -571,6 +601,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Casas Grandes",
     "Region": "Arqueologica",
     "Meses": {
@@ -590,6 +621,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Coyame del Sotol",
     "Region": "Desierto",
     "Meses": {
@@ -609,6 +641,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "G�mez Far�as",
     "Region": "Arqueologica",
     "Meses": {
@@ -628,6 +661,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Janos",
     "Region": "Arqueologica",
     "Meses": {
@@ -647,6 +681,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Julimes",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -666,6 +701,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Lopez",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -685,6 +721,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Manuel Benavides",
     "Region": "Desierto",
     "Meses": {
@@ -704,6 +741,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Matach�",
     "Region": "Arqueologica",
     "Meses": {
@@ -723,6 +761,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Meoqu�",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -742,6 +781,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Namiquipa",
     "Region": "Arqueologica",
     "Meses": {
@@ -761,6 +801,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Riva Palacio",
     "Region": "Chihuahua",
     "Meses": {
@@ -780,6 +821,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Rosales",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -799,6 +841,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Sn Fco. Borja",
     "Region": "Chihuahua",
     "Meses": {
@@ -818,6 +861,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Sn Fco. Conchos",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -837,6 +881,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Santa Barbara",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -856,6 +901,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Saucillo",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -875,6 +921,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Temosachi",
     "Region": "Arqueologica",
     "Meses": {
@@ -894,6 +941,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Valle de Zaragoza",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -913,6 +961,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "Estatal",
     "Region": "Todas",
     "Meses": {
@@ -932,6 +981,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Densidad",
     "Municipio": "",
     "Region": "",
     "Meses": {

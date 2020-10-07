@@ -1,9 +1,10 @@
 [
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Nuevo Casas Grandes",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 8462,
@@ -24,9 +25,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Madera",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 1696,
@@ -47,9 +49,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Bocoyna",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 15051,
@@ -70,9 +73,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Ocampo",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 9638,
@@ -93,9 +97,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Urique",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 8801,
@@ -116,9 +121,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Guachochi",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 1870,
@@ -139,9 +145,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Batopilas",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 611,
@@ -162,9 +169,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Balleza",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 1075,
@@ -185,9 +193,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Chinipas",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 928,
@@ -208,9 +217,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "G. y Calvo",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 1897,
@@ -231,9 +241,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Guazapares",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 902,
@@ -254,9 +265,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Guerrero",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2109,
@@ -277,9 +289,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Maguarichi",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 66,
@@ -300,9 +313,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Moris",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 451,
@@ -323,9 +337,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Uruachi",
     "Region": "Barrancas del Cobre",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 358,
@@ -346,9 +361,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Chihuahua",
     "Region": "Chihuahua",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 115583,
@@ -369,9 +385,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Cuauhtémoc",
     "Region": "Chihuahua",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Region": "Chihuahua",
@@ -393,9 +410,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Ojinaga",
     "Region": "Desierto",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 6962,
@@ -416,9 +434,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Juárez",
     "Region": "Juárez",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 168315,
@@ -439,9 +458,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Delicias",
     "Region": "Perla de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 10890,
@@ -462,9 +482,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Camargo",
     "Region": "Perla de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 4383,
@@ -485,9 +506,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Jiménez",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 5780,
@@ -508,9 +530,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "H. del Parral",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 19193,
@@ -531,9 +554,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Ahumada",
     "Region": "Juárez",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 3070,
@@ -554,9 +578,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Aldama",
     "Region": "Desierto",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 762,
@@ -577,9 +602,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Allende",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 508,
@@ -600,9 +626,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Ascensión",
     "Region": "Juárez",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 5145,
@@ -623,9 +650,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Bachiniva",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 149,
@@ -646,9 +674,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Buenaventura",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2245,
@@ -669,9 +698,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Carichí",
     "Region": "Chihuahua",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 593,
@@ -692,9 +722,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Casas Grandes",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 657,
@@ -715,9 +746,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Coyame del Sotol",
     "Region": "Desierto",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 212,
@@ -738,9 +770,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Gómez Farías",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 741,
@@ -761,9 +794,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Janos",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 1270,
@@ -784,9 +818,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Julimes",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 423,
@@ -807,9 +842,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Lopez",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 212,
@@ -830,9 +866,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Manuel Benavides",
     "Region": "Desierto",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 296,
@@ -853,9 +890,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Matachí",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 233,
@@ -876,9 +914,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Meoqui",
     "Region": "Perlas de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2308,
@@ -899,9 +938,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Namiquipa",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2287,
@@ -922,9 +962,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Riva Palacio",
     "Region": "Chihuahua",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 381,
@@ -945,9 +986,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Rosales",
     "Region": "Perlas de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 593,
@@ -968,9 +1010,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Sn Fco. Borja",
     "Region": "Chihuahua",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 169,
@@ -991,9 +1034,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Sn Fco. Conchos",
     "Region": "Perlas de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2604,
@@ -1014,9 +1058,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Santa Barbara",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 296,
@@ -1037,9 +1082,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Saucillo",
     "Region": "Perlas de Conchos",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 762,
@@ -1060,9 +1106,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Temosachi",
     "Region": "Arqueológica",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 106,
@@ -1083,9 +1130,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Valle de Zaragoza",
     "Region": "Ruta de Villa",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 2562,
@@ -1106,9 +1154,10 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Llegada de turistas",
     "Municipio": "Estatal",
     "Region": "Todas",
-    "Categoria": {
+    "Datos": {
       "Total": {
         "Meses": {
           "Enero": 437211,

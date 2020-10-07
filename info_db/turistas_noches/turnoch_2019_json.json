@@ -1,6 +1,7 @@
 [
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Nuevo Casas Grandes",
     "Region": "Arqueológica",
     "Mes": {
@@ -20,6 +21,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Madera",
     "Region": "Arqueológica",
     "Mes": {
@@ -39,6 +41,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Bocoyna",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -58,6 +61,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Ocampo",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -77,6 +81,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Urique",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -96,6 +101,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Guachochi",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -115,6 +121,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Batopilas",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -134,6 +141,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Balleza",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -153,6 +161,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Chinipas",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -172,6 +181,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "G. y Calvo",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -191,6 +201,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Guazapares",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -210,6 +221,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Guerrero",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -229,6 +241,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Maguarichi",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -248,6 +261,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Moris",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -267,6 +281,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Uruachi",
     "Region": "Barrancas del Cobre",
     "Mes": {
@@ -286,6 +301,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Chihuahua",
     "Region": "Chihuahua",
     "Mes": {
@@ -305,6 +321,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Cuauhtémoc",
     "Region": "Chihuahua",
     "Mes": {
@@ -324,6 +341,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Ojinaga",
     "Region": "Desierto",
     "Mes": {
@@ -343,6 +361,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Juárez",
     "Region": "Juárez",
     "Mes": {
@@ -362,6 +381,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Delicias",
     "Region": "Perla de Conchos",
     "Mes": {
@@ -381,6 +401,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Camargo",
     "Region": "Perla de Conchos",
     "Mes": {
@@ -400,6 +421,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Jiménez",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -419,6 +441,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "H. del Parral",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -438,6 +461,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Ahumada",
     "Region": "Juárez",
     "Mes": {
@@ -457,6 +481,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Aldama",
     "Region": "Desierto",
     "Mes": {
@@ -476,6 +501,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Allende",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -495,6 +521,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Ascención",
     "Region": "Juárez",
     "Mes": {
@@ -514,6 +541,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Bachiniva",
     "Region": "Arqueológica",
     "Mes": {
@@ -533,6 +561,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Buenaventura",
     "Region": "Arqueológica",
     "Mes": {
@@ -552,6 +581,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Carichí",
     "Region": "Chihuahua",
     "Mes": {
@@ -571,6 +601,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Casas Grandes",
     "Region": "Arqueológica",
     "Mes": {
@@ -590,6 +621,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Coyame del Sotol",
     "Region": "Desierto",
     "Mes": {
@@ -609,6 +641,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Gómez Farías",
     "Region": "Arqueológica",
     "Mes": {
@@ -628,6 +661,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Janos",
     "Region": "Arqueológica",
     "Mes": {
@@ -647,6 +681,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Julimes",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -666,6 +701,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Lopez",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -685,6 +721,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Manuel Benavides",
     "Region": "Desierto",
     "Mes": {
@@ -704,6 +741,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Matachí",
     "Region": "Arqueológica",
     "Mes": {
@@ -723,6 +761,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Meoquí",
     "Region": "Perlas de Conchos",
     "Mes": {
@@ -742,6 +781,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Namiquipa",
     "Region": "Arqueológica",
     "Mes": {
@@ -761,6 +801,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Riva Palacio",
     "Region": "Chihuahua",
     "Mes": {
@@ -780,6 +821,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Rosales",
     "Region": "Perlas de Conchos",
     "Mes": {
@@ -799,6 +841,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Sn Fco. Borja",
     "Region": "Chihuahua",
     "Mes": {
@@ -818,6 +861,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Sn Fco. Conchos",
     "Region": "Perlas de Conchos",
     "Mes": {
@@ -837,6 +881,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Santa Barbara",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -856,6 +901,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Saucillo",
     "Region": "Perlas de Conchos",
     "Mes": {
@@ -875,6 +921,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Temosachi",
     "Region": "Arqueológica",
     "Mes": {
@@ -894,6 +941,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Valle de Zaragoza",
     "Region": "Ruta de Villa",
     "Mes": {
@@ -913,6 +961,7 @@
   },
   {
     "Año": "2019",
+    "Categoria": "Noches de estadia de los turistas",
     "Municipio": "Estatal",
     "Region": "Todas",
     "Mes": {

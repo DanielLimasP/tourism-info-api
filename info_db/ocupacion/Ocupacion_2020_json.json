@@ -1,6 +1,7 @@
 [
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Nuevo Casas Grandes",
     "Region": "Arqueológica",
     "Meses": {
@@ -20,6 +21,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Madera",
     "Region": "Arqueológica",
     "Meses": {
@@ -39,6 +41,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Bocoyna",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -58,6 +61,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Ocampo",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -77,6 +81,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Urique",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -96,6 +101,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Guachochi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -115,6 +121,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Batopilas",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -134,6 +141,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Balleza",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -153,6 +161,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Chinipas",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -172,6 +181,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "G. y Calvo",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -191,6 +201,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Guazapares",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -210,6 +221,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Guerrero",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -229,6 +241,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Maguarichi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -248,6 +261,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Moris",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -267,6 +281,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Uruachi",
     "Region": "Barrancas del Cobre",
     "Meses": {
@@ -286,6 +301,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Chihuahua",
     "Region": "Chihuahua",
     "Meses": {
@@ -305,6 +321,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Cuauhtémoc",
     "Region": "Chihuahua",
     "Meses": {
@@ -324,6 +341,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Ojinaga",
     "Region": "Desierto",
     "Meses": {
@@ -343,6 +361,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Juárez",
     "Region": "Juárez",
     "Meses": {
@@ -362,6 +381,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Delicias",
     "Region": "Perla de Conchos",
     "Meses": {
@@ -381,6 +401,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Camargo",
     "Region": "Perla de Conchos",
     "Meses": {
@@ -400,6 +421,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Jiménez",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -419,6 +441,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "H. del Parral",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -438,6 +461,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Ahumada",
     "Region": "Juárez",
     "Meses": {
@@ -457,6 +481,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Aldama",
     "Region": "Desierto",
     "Meses": {
@@ -476,6 +501,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Allende",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -495,6 +521,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Ascención",
     "Region": "Juárez",
     "Meses": {
@@ -514,6 +541,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Bachiniva",
     "Region": "Arqueológica",
     "Meses": {
@@ -533,6 +561,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Buenaventura",
     "Region": "Arqueológica",
     "Meses": {
@@ -552,6 +581,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Carichí",
     "Region": "Chihuahua",
     "Meses": {
@@ -571,6 +601,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Casas Grandes",
     "Region": "Arqueológica",
     "Meses": {
@@ -590,6 +621,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Coyame del Sotol",
     "Region": "Desierto",
     "Meses": {
@@ -609,6 +641,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Gómez Farías",
     "Region": "Arqueológica",
     "Meses": {
@@ -628,6 +661,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Janos",
     "Region": "Arqueológica",
     "Meses": {
@@ -647,6 +681,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Julimes",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -666,6 +701,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Lopez",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -685,6 +721,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Manuel Benavides",
     "Region": "Desierto",
     "Meses": {
@@ -704,6 +741,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Matachí",
     "Region": "Arqueológica",
     "Meses": {
@@ -723,6 +761,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Meoquí",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -742,6 +781,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Namiquipa",
     "Region": "Arqueológica",
     "Meses": {
@@ -761,6 +801,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Riva Palacio",
     "Region": "Chihuahua",
     "Meses": {
@@ -780,6 +821,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Rosales",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -799,6 +841,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Sn Fco. Borja",
     "Region": "Chihuahua",
     "Meses": {
@@ -818,6 +861,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Sn Fco. Conchos",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -837,6 +881,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Santa Barbara",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -856,6 +901,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Saucillo",
     "Region": "Perlas de Conchos",
     "Meses": {
@@ -875,6 +921,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Temosachi",
     "Region": "Arqueológica",
     "Meses": {
@@ -894,6 +941,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Valle de Zaragoza",
     "Region": "Ruta de Villa",
     "Meses": {
@@ -913,6 +961,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "Estatal",
     "Region": "Todas",
     "Meses": {
@@ -932,6 +981,7 @@
   },
   {
     "Año": "2020",
+    "Categoria": "Ocupacion hotelera",
     "Municipio": "",
     "Region": "",
     "Meses": {
