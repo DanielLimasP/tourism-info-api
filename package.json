@@ -1,7 +1,7 @@
 {
-  "name": "iweek-hac",
+  "name": "tourism-info-api",
   "version": "1.0.0",
-  "description": "Solution for the iweek hackaton 2020",
+  "description": "A simple API to query info related to tourism in the Chihuahua State",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,12 +13,10 @@
     "url": "git+https://github.com/DanielLimasP/tourism-info-api.git"
   },
   "keywords": [
-    "iweek",
     "express",
     "nodejs",
     "chihuahua",
-    "turismo",
-    "hackaton"
+    "turismo"
   ],
   "author": "hac",
   "license": "ISC",
