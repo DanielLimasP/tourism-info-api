@@ -839,7 +839,7 @@
       "year": "2019",
       "category": "Densidad",
       "city": "Meoqui",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,73",
@@ -905,7 +905,7 @@
       "year": "2019",
       "category": "Densidad",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,73",
@@ -949,7 +949,7 @@
       "year": "2019",
       "category": "Densidad",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,73",
@@ -993,7 +993,7 @@
       "year": "2019",
       "category": "Densidad",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,73",
@@ -1939,7 +1939,7 @@
       "year": "2020",
       "category": "Densidad",
       "city": "Meoqui",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,8075",
@@ -2005,7 +2005,7 @@
       "year": "2020",
       "category": "Densidad",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,8075",
@@ -2049,7 +2049,7 @@
       "year": "2020",
       "category": "Densidad",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,8075",
@@ -2093,7 +2093,7 @@
       "year": "2020",
       "category": "Densidad",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "1,8075",
@@ -3039,7 +3039,7 @@
       "year": "2019",
       "category": "Derrama economica",
       "city": "Meoqui",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "3,521376905",
@@ -3105,7 +3105,7 @@
       "year": "2019",
       "category": "Derrama economica",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "0,450221705",
@@ -3149,7 +3149,7 @@
       "year": "2019",
       "category": "Derrama economica",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "3,097954112",
@@ -3193,7 +3193,7 @@
       "year": "2019",
       "category": "Derrama economica",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "0,578856478",
@@ -4095,7 +4095,7 @@
       "year": "2020",
       "category": "Derrama economica",
       "city": "Meoqui",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "3,287851623",
@@ -4161,7 +4161,7 @@
       "year": "2020",
       "category": "Derrama economica",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "0,420364591",
@@ -4205,7 +4205,7 @@
       "year": "2020",
       "category": "Derrama economica",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "2,892508734",
@@ -4249,7 +4249,7 @@
       "year": "2020",
       "category": "Derrama economica",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "0,54046876",
@@ -4315,7 +4315,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 12
       }
@@ -4324,7 +4324,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 14
       }
@@ -4474,8 +4474,8 @@
     {
       "year": "2019",
       "category": "Establecimientos de hospedaje",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data":{
           "Establishments": 133
       }
@@ -4501,7 +4501,7 @@
     {
       "year": "2019",
       "category": "Establecimientos de hospedaje",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data":{
           "Establishments": 10
@@ -4520,7 +4520,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data":{
           "Establishments": 5
       }
@@ -4546,8 +4546,8 @@
     {
       "year": "2019",
       "category": "Establecimientos de hospedaje",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data":{
           "Establishments": 14
       }
@@ -4556,7 +4556,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 1
       }
@@ -4565,7 +4565,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 10
       }
@@ -4573,7 +4573,7 @@
     {
       "year": "2019",
       "category": "Establecimientos de hospedaje",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data":{
           "Establishments": 4
@@ -4583,7 +4583,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 4
       }
@@ -4601,7 +4601,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 3
       }
@@ -4610,7 +4610,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 3
       }
@@ -4646,7 +4646,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 2
       }
@@ -4655,7 +4655,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 6
       }
@@ -4664,7 +4664,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 6
       }
@@ -4682,7 +4682,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 3
       }
@@ -4700,7 +4700,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 12
       }
@@ -4718,7 +4718,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 4
       }
@@ -4727,7 +4727,7 @@
       "year": "2019",
       "category": "Establecimientos de hospedaje",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 1
       }
@@ -4754,7 +4754,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 12
       }
@@ -4763,7 +4763,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 14
       }
@@ -4915,8 +4915,8 @@
     {
       "year": "2020",
       "category": "Establecimientos de hospedaje",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data":{
           "Establishments": 133
       }
@@ -4942,7 +4942,7 @@
     {
       "year": "2020",
       "category": "Establecimientos de hospedaje",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data":{
           "Establishments": 10
@@ -4961,7 +4961,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data":{
           "Establishments": 5
       }
@@ -4987,8 +4987,8 @@
     {
       "year": "2020",
       "category": "Establecimientos de hospedaje",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data":{
           "Establishments": 14
       }
@@ -4997,7 +4997,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 1
       }
@@ -5006,7 +5006,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 10
       }
@@ -5014,7 +5014,7 @@
     {
       "year": "2020",
       "category": "Establecimientos de hospedaje",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data":{
           "Establishments": 4
@@ -5022,7 +5022,7 @@
     },
     {
       "Municipio": "Casas Grandes",
-      "Region": "Arqueológica",
+      "Region": "Arqueologica",
       "Datos":{
           "Establishments": 4
       }
@@ -5040,7 +5040,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 3
       }
@@ -5049,7 +5049,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 3
       }
@@ -5085,7 +5085,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 2
       }
@@ -5094,14 +5094,14 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 6
       }
     },
     {
       "Municipio": "Namiquipa",
-      "Region": "Arqueológica",
+      "Region": "Arqueologica",
       "Datos":{
           "Establishments": 6
       }
@@ -5119,7 +5119,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 3
       }
@@ -5137,7 +5137,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 12
       }
@@ -5155,7 +5155,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data":{
           "Establishments": 4
       }
@@ -5164,7 +5164,7 @@
       "year": "2020",
       "category": "Establecimientos de hospedaje",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data":{
           "Establishments": 1
       }
@@ -5191,7 +5191,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 445
       }
@@ -5200,7 +5200,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 183
       }
@@ -5352,8 +5352,8 @@
     {
       "year": "2019",
       "category": "Habitaciones",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "Rooms": 7310
       }
@@ -5379,7 +5379,7 @@
     {
       "year": "2019",
       "category": "Habitaciones",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "Rooms": 217
@@ -5398,7 +5398,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "Rooms": 145
       }
@@ -5424,8 +5424,8 @@
     {
       "year": "2019",
       "category": "Habitaciones",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "Rooms": 243
       }
@@ -5434,7 +5434,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 7
       }
@@ -5443,7 +5443,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 106
       }
@@ -5451,7 +5451,7 @@
     {
       "year": "2019",
       "category": "Habitaciones",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "Rooms": 28
@@ -5461,7 +5461,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 31
       }
@@ -5479,7 +5479,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 35
       }
@@ -5488,7 +5488,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 60
       }
@@ -5524,7 +5524,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 11
       }
@@ -5533,7 +5533,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 109
       }
@@ -5542,7 +5542,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 108
       }
@@ -5560,7 +5560,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 28
       }
@@ -5578,7 +5578,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 123
       }
@@ -5596,7 +5596,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 36
       }
@@ -5605,7 +5605,7 @@
       "year": "2019",
       "category": "Habitaciones",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 5
       }
@@ -5632,7 +5632,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 445
       }
@@ -5641,7 +5641,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 183
       }
@@ -5793,8 +5793,8 @@
     {
       "year": "2020",
       "category": "Habitaciones",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "Rooms": 7310
       }
@@ -5820,7 +5820,7 @@
     {
       "year": "2020",
       "category": "Habitaciones",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "Rooms": 217
@@ -5839,7 +5839,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "Rooms": 145
       }
@@ -5865,8 +5865,8 @@
     {
       "year": "2020",
       "category": "Habitaciones",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "Rooms": 243
       }
@@ -5875,7 +5875,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 7
       }
@@ -5884,7 +5884,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 106
       }
@@ -5892,7 +5892,7 @@
     {
       "year": "2020",
       "category": "Habitaciones",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "Rooms": 28
@@ -5902,7 +5902,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 31
       }
@@ -5920,7 +5920,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 35
       }
@@ -5929,7 +5929,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 60
       }
@@ -5965,7 +5965,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 11
       }
@@ -5974,7 +5974,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 109
       }
@@ -5983,7 +5983,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 108
       }
@@ -6001,7 +6001,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 28
       }
@@ -6019,7 +6019,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 123
       }
@@ -6037,7 +6037,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "Rooms": 36
       }
@@ -6046,7 +6046,7 @@
       "year": "2020",
       "category": "Habitaciones",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "Rooms": 5
       }
@@ -6468,8 +6468,8 @@
     {
       "year": "2019",
       "category": "Ocupacion hotelera",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "60.65%",
@@ -6534,7 +6534,7 @@
     {
       "year": "2019",
       "category": "Ocupacion hotelera",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "months": {
@@ -6579,7 +6579,7 @@
       "year": "2019",
       "category": "Ocupacion hotelera",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "49.97%",
@@ -6644,8 +6644,8 @@
     {
       "year": "2019",
       "category": "Ocupacion hotelera",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "49.97%",
@@ -6710,7 +6710,7 @@
     {
       "year": "2019",
       "category": "Ocupacion hotelera",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "months": {
@@ -6909,7 +6909,7 @@
       "year": "2019",
       "category": "Ocupacion hotelera",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "49.97%",
@@ -6975,7 +6975,7 @@
       "year": "2019",
       "category": "Ocupacion hotelera",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "49.97%",
@@ -7019,7 +7019,7 @@
       "year": "2019",
       "category": "Ocupacion hotelera",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "49.97%",
@@ -7063,7 +7063,7 @@
       "year": "2019",
       "category": "Ocupacion hotelera",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "49.97%",
@@ -7151,7 +7151,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "11.44%",
@@ -7173,7 +7173,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "0.00%",
@@ -7546,8 +7546,8 @@
     {
       "year": "2020",
       "category": "Ocupacion hotelera",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "58.56%",
@@ -7612,7 +7612,7 @@
     {
       "year": "2020",
       "category": "Ocupacion hotelera",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "months": {
@@ -7657,7 +7657,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7722,8 +7722,8 @@
     {
       "year": "2020",
       "category": "Ocupacion hotelera",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7745,7 +7745,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7767,7 +7767,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7788,7 +7788,7 @@
     {
       "year": "2020",
       "category": "Ocupacion hotelera",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "months": {
@@ -7811,7 +7811,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7855,7 +7855,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7877,7 +7877,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7965,7 +7965,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -7987,7 +7987,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8009,7 +8009,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8053,7 +8053,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8097,7 +8097,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8141,7 +8141,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8163,7 +8163,7 @@
       "year": "2020",
       "category": "Ocupacion hotelera",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": "41.37%",
@@ -8251,7 +8251,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 10710,
@@ -8273,7 +8273,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2146,
@@ -8646,8 +8646,8 @@
     {
       "year": "2019",
       "category": "Noches de estadia de los turistas",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 213030,
@@ -8712,7 +8712,7 @@
     {
       "year": "2019",
       "category": "Noches de estadia de los turistas",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "months": {
@@ -8757,7 +8757,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 3886,
@@ -8822,8 +8822,8 @@
     {
       "year": "2019",
       "category": "Noches de estadia de los turistas",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 6512,
@@ -8845,7 +8845,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 188,
@@ -8867,7 +8867,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2841,
@@ -8888,7 +8888,7 @@
     {
       "year": "2019",
       "category": "Noches de estadia de los turistas",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "months": {
@@ -8911,7 +8911,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 831,
@@ -8955,7 +8955,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 938,
@@ -8977,7 +8977,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 1608,
@@ -9043,7 +9043,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 295,
@@ -9065,7 +9065,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 2921,
@@ -9087,7 +9087,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2894,
@@ -9131,7 +9131,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 750,
@@ -9175,7 +9175,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 3296,
@@ -9219,7 +9219,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 965,
@@ -9241,7 +9241,7 @@
       "year": "2019",
       "category": "Noches de estadia de los turistas",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 134,
@@ -9307,7 +9307,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Nuevo Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2557,
@@ -9329,7 +9329,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Madera",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 0,
@@ -9702,8 +9702,8 @@
     {
       "year": "2020",
       "category": "Noches de estadia de los turistas",
-      "city": "Juárez",
-      "region": "Juárez",
+      "city": "Juarez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 208343,
@@ -9768,7 +9768,7 @@
     {
       "year": "2020",
       "category": "Noches de estadia de los turistas",
-      "city": "Jiménez",
+      "city": "Jimenez",
       "region": "Ruta de Villa",
       "data": {
           "months": {
@@ -9813,7 +9813,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Ahumada",
-      "region": "Juárez",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 3361,
@@ -9878,8 +9878,8 @@
     {
       "year": "2020",
       "category": "Noches de estadia de los turistas",
-      "city": "Ascención",
-      "region": "Juárez",
+      "city": "Ascencion",
+      "region": "Juarez",
       "data": {
           "months": {
             "January": 5632,
@@ -9901,7 +9901,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Bachiniva",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 162,
@@ -9923,7 +9923,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Buenaventura",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2457,
@@ -9944,7 +9944,7 @@
     {
       "year": "2020",
       "category": "Noches de estadia de los turistas",
-      "city": "Carichí",
+      "city": "Carichi",
       "region": "Chihuahua",
       "data": {
           "months": {
@@ -9967,7 +9967,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Casas Grandes",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 719,
@@ -10011,7 +10011,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Gómez Farías",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 811,
@@ -10033,7 +10033,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Janos",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 1391,
@@ -10121,7 +10121,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Matachí",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 255,
@@ -10143,7 +10143,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Meoquí",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 2526,
@@ -10165,7 +10165,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Namiquipa",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 2503,
@@ -10209,7 +10209,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 649,
@@ -10253,7 +10253,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 2851,
@@ -10297,7 +10297,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 835,
@@ -10319,7 +10319,7 @@
       "year": "2020",
       "category": "Noches de estadia de los turistas",
       "city": "Temosachi",
-      "region": "Arqueológica",
+      "region": "Arqueologica",
       "data": {
           "months": {
             "January": 116,
@@ -11199,7 +11199,7 @@
       "year": "2019",
       "category": "Llegada de turistas",
       "city": "Meoqui",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 2308,
@@ -11265,7 +11265,7 @@
       "year": "2019",
       "category": "Llegada de turistas",
       "city": "Rosales",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 593,
@@ -11309,7 +11309,7 @@
       "year": "2019",
       "category": "Llegada de turistas",
       "city": "Sn Fco. Conchos",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 2604,
@@ -11353,7 +11353,7 @@
       "year": "2019",
       "category": "Llegada de turistas",
       "city": "Saucillo",
-      "region": "Perlas de Conchos",
+      "region": "Perla de Conchos",
       "data": {
           "months": {
             "January": 762,
