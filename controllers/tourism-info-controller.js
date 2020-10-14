@@ -132,7 +132,7 @@ async function queryInfo(req, res){
   else{
     result = await TourismInfo.find({year: year, category: category, city: city, region: region})
   }
-  //console.log("Result of the query: " + result)
+  console.log("Result of the query: " + result)
   return res.status(200).send({ message: "Result of the query: ", result: result}) 
 }
 
