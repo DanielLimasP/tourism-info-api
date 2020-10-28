@@ -48,7 +48,6 @@ const cities = {
   "Temosachi": "True",
   "Valle de Zaragoza": "True",
   "Estatal": "True",
-  "Cuahtemoc": "True",
   "Ascension": "True",
   "Carichi": "True",
   "Matacha": "True"
@@ -95,6 +94,11 @@ async function queryInfo(req, res){
   let result = []
   console.log(req.query)
   let { year, category, city, region, wildcard } = req.query
+
+  if(year == null){
+    result = {message: "You didn't specify a year. Please specify a year."}
+  }
+  
   // Year - Category
   if(year != null && category != null && city == null && region == null && wildcard == null){
     result = await TourismInfo.find({year: year, category: category})

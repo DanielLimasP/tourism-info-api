@@ -1,0 +1,54 @@
+There are 52 cities
+
+Ahumada
+Aldama
+Allende
+Ascencion
+Ascension
+Bachiniva
+Balleza
+Batopilas
+Bocoyna
+Buenaventura
+Camargo
+Carichi
+Casas Grandes
+Chihuahua
+Chinipas
+Coyame del Sotol
+Cuahtemoc
+Cuauhtemoc
+Delicias
+Estatal
+G. y Calvo
+Gomez Farias
+Guachochi
+Guazapares
+Guerrero
+H. del Parral
+Janos
+Jimenez
+Juarez
+Julimes
+Lopez
+Madera
+Maguarichi
+Manuel Benavides
+Matacha
+Matachi
+Meoqui
+Moris
+Namiquipa
+Nuevo Casas Grandes
+Ocampo
+Ojinaga
+Riva Palacio
+Rosales
+Santa Barbara
+Saucillo
+Sn Fco. Borja
+Sn Fco. Conchos
+Temosachi
+Urique
+Uruachi
+Valle de Zaragoza
