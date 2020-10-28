@@ -101,33 +101,33 @@ async function queryInfo(req, res){
   
   // Year - Category
   if(year != null && category != null && city == null && region == null && wildcard == null){
-    result = await TourismInfo.find({year: year, category: category})
+    result = await TourismInfo.find({year: year, category: category}).sort('city')
   }
   // Year - Category - City
   else if(year != null && category != null && city != null && region == null && wildcard == null){
-    result = await TourismInfo.find({year: year, category: category, city: city})
+    result = await TourismInfo.find({year: year, category: category, city: city}).sort('city')
   }
   // Year - Category - Region
   else if(year != null && category != null && city == null && region != null && wildcard == null){
-    result = await TourismInfo.find({year: year, category: category, region: region})
+    result = await TourismInfo.find({year: year, category: category, region: region}).sort('city')
   }
   // Year - City
   else if(year != null && category == null && city != null && region == null && wildcard == null){
-    result = await TourismInfo.find({year: year, city: city})
+    result = await TourismInfo.find({year: year, city: city}).sort('city')
   }
   // Year - Region
   else if(year != null && category == null && city == null && region != null && wildcard == null){
-    result = await TourismInfo.find({year: year, region: region})
+    result = await TourismInfo.find({year: year, region: region}).sort('city')
   }
   // Year - Wildcard
   else if(year != null && category == null && city == null && region == null && wildcard != null){
     console.log("Search bar query")
     if(cities.hasOwnProperty(wildcard) && regions.hasOwnProperty(wildcard)){
-      result = await TourismInfo.find({year: year, city: wildcard})
+      result = await TourismInfo.find({year: year, city: wildcard}).sort('city')
     }else if(regions.hasOwnProperty(wildcard)){
-      result = await TourismInfo.find({year: year, region: wildcard})
+      result = await TourismInfo.find({year: year, region: wildcard}).sort('city')
     }else if(cities.hasOwnProperty(wildcard)){
-      result = await TourismInfo.find({year: year, city: wildcard})
+      result = await TourismInfo.find({year: year, city: wildcard}).sort('city')
     }else{
       return res.status(200).send({ message: "Couldn't find info related to that city or region. Try it again."})
     }
